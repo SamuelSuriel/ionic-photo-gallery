@@ -1,0 +1,11 @@
+.list-center {
+  height: 100%;
+  display: flex;
+  justify-content: center;   /* centra verticalmente */
+  align-items: center;       /* centra horizontalmente */
+}
+
+ion-list {
+  width: 100%;
+  max-width: 350px;
+}
